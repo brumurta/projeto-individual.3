@@ -1,5 +1,5 @@
 {
-  "Hotel 5 estrelas": [
+  "Hotel-5-estrelas": [
     {
       "id": 1,
       "reserva": "Quarto para casal",
@@ -25,7 +25,7 @@
       "diaria": 150.00
     }
   ],
-  "Hotel 4 estrelas": [
+  "Hotel-4-estrelas": [
     {
       "id": 5,
       "reserva": "Suíte Principal",
